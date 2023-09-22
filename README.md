@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @saurabhgambhire
-- 👀 I’m interested in java, spring boot
-- 🌱 I’m currently learning junit
+- 👀 I’m interested in java, spring boot, microservices
+- 🌱 I’m currently learning Java with DSA
 - 💞️ I’m looking to collaborate on java realated Technologies
 - 📫 How to reach me saurabhgambhire57@gmail.com
 
